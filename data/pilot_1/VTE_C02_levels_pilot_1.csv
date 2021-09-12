@@ -1,0 +1,72 @@
+Timestamp,Turno,"Grado escolar (Aula de cómputo u oficinas marcar ""otro"")",Grupo,¿Qué medición está reportando?,¿Cuál es el nivel de CO2 a reportar?
+8/27/2021 13:32:54,,1ero,A,Primera medición: después del ingreso y antes del recreo,580
+8/27/2021 13:33:11,,5to,A,Primera medición: después del ingreso y antes del recreo,615
+8/27/2021 13:33:15,,4to,A,Primera medición: después del ingreso y antes del recreo,720
+8/27/2021 13:33:16,,2do,B,Primera medición: después del ingreso y antes del recreo,698
+8/27/2021 13:33:23,,1ero,B,Primera medición: después del ingreso y antes del recreo,455
+8/27/2021 13:33:23,,Otro,No aplica,Primera medición: después del ingreso y antes del recreo,600
+8/27/2021 13:33:25,,6to,B,Primera medición: después del ingreso y antes del recreo,560
+8/27/2021 13:33:27,,4to,B,Primera medición: después del ingreso y antes del recreo,600
+8/27/2021 13:33:30,,1ero,A,Segunda medición: después del recreo y antes de la salida de clases,780
+8/27/2021 13:33:39,,3ero,B,Primera medición: después del ingreso y antes del recreo,500
+8/27/2021 13:33:41,,3ero,A,Primera medición: después del ingreso y antes del recreo,450
+8/27/2021 13:33:41,,6to,A,Segunda medición: después del recreo y antes de la salida de clases,450
+9/6/2021 10:12:34,Matutino,6to,A,Primera medición: después del ingreso y antes del recreo,438
+9/6/2021 13:09:43,Matutino,1ero,A,Primera medición: después del ingreso y antes del recreo,461
+9/6/2021 13:10:10,Matutino,1ero,B,Primera medición: después del ingreso y antes del recreo,467
+9/6/2021 13:11:06,Matutino,2do,A,Primera medición: después del ingreso y antes del recreo,436
+9/6/2021 13:13:55,Matutino,2do,B,Primera medición: después del ingreso y antes del recreo,448
+9/6/2021 13:14:50,Matutino,3ero,A,Primera medición: después del ingreso y antes del recreo,472
+9/6/2021 13:15:20,Matutino,3ero,B,Primera medición: después del ingreso y antes del recreo,475
+9/6/2021 13:15:50,Matutino,4to,A,Primera medición: después del ingreso y antes del recreo,548
+9/6/2021 13:16:08,Matutino,3ero,A,Primera medición: después del ingreso y antes del recreo,472
+9/6/2021 13:16:18,Matutino,4to,B,Primera medición: después del ingreso y antes del recreo,455
+9/6/2021 13:16:55,Matutino,5to,A,Primera medición: después del ingreso y antes del recreo,477
+9/6/2021 13:17:19,Matutino,5to,B,Primera medición: después del ingreso y antes del recreo,453
+9/6/2021 13:17:44,Matutino,6to,A,Primera medición: después del ingreso y antes del recreo,438
+9/6/2021 13:18:18,Matutino,6to,B,Primera medición: después del ingreso y antes del recreo,460
+9/6/2021 13:20:09,Matutino,4to,B,Primera medición: después del ingreso y antes del recreo,455
+9/6/2021 13:26:03,Matutino,4to,A,Primera medición: después del ingreso y antes del recreo,548
+9/6/2021 13:26:12,Matutino,5to,A,Primera medición: después del ingreso y antes del recreo,477
+9/6/2021 13:26:44,Matutino,5to,B,,453
+9/6/2021 13:28:03,Matutino,2do,B,Primera medición: después del ingreso y antes del recreo,448
+9/6/2021 13:54:51,Matutino,6to,B,Primera medición: después del ingreso y antes del recreo,459
+9/7/2021 12:39:05,Matutino,1ero,A,Segunda medición: después del recreo y antes de la salida de clases,409
+9/7/2021 12:40:03,Matutino,1ero,B,Segunda medición: después del recreo y antes de la salida de clases,378
+9/7/2021 12:40:46,Matutino,2do,A,Segunda medición: después del recreo y antes de la salida de clases,415
+9/7/2021 12:41:30,Matutino,2do,B,Segunda medición: después del recreo y antes de la salida de clases,409
+9/7/2021 12:42:12,Matutino,3ero,A,Segunda medición: después del recreo y antes de la salida de clases,377
+9/7/2021 12:42:58,Matutino,3ero,B,Segunda medición: después del recreo y antes de la salida de clases,381
+9/7/2021 12:43:36,Matutino,4to,A,Segunda medición: después del recreo y antes de la salida de clases,462
+9/7/2021 12:44:11,Matutino,4to,B,Segunda medición: después del recreo y antes de la salida de clases,413
+9/7/2021 12:44:57,Matutino,5to,A,Segunda medición: después del recreo y antes de la salida de clases,392
+9/7/2021 12:45:35,Matutino,5to,B,Segunda medición: después del recreo y antes de la salida de clases,423
+9/7/2021 12:46:32,Matutino,6to,A,Segunda medición: después del recreo y antes de la salida de clases,400
+9/7/2021 12:46:59,Matutino,6to,B,Segunda medición: después del recreo y antes de la salida de clases,402
+9/7/2021 13:31:26,Matutino,Otro,No aplica,Segunda medición: después del recreo y antes de la salida de clases,534
+9/8/2021 11:27:21,Matutino,1ero,A,Primera medición: después del ingreso y antes del recreo,398
+9/8/2021 11:27:44,Matutino,1ero,B,Primera medición: después del ingreso y antes del recreo,414
+9/8/2021 11:28:09,Matutino,2do,A,Primera medición: después del ingreso y antes del recreo,438
+9/8/2021 11:28:34,Matutino,2do,B,Primera medición: después del ingreso y antes del recreo,405
+9/8/2021 11:29:02,Matutino,3ero,A,Primera medición: después del ingreso y antes del recreo,430
+9/8/2021 11:29:22,Matutino,3ero,B,Primera medición: después del ingreso y antes del recreo,421
+9/8/2021 11:45:21,Matutino,4to,A,Primera medición: después del ingreso y antes del recreo,456
+9/8/2021 11:45:48,Matutino,4to,B,Primera medición: después del ingreso y antes del recreo,402
+9/8/2021 11:46:09,Matutino,5to,A,Primera medición: después del ingreso y antes del recreo,403
+9/8/2021 11:46:34,Matutino,5to,B,Primera medición: después del ingreso y antes del recreo,406
+9/8/2021 11:47:07,Matutino,6to,A,Primera medición: después del ingreso y antes del recreo,398
+9/8/2021 11:47:46,Matutino,6to,B,Primera medición: después del ingreso y antes del recreo,420
+9/8/2021 11:48:07,Matutino,Otro,No aplica,Primera medición: después del ingreso y antes del recreo,412
+9/9/2021 10:33:42,Matutino,Otro,No aplica,Primera medición: después del ingreso y antes del recreo,408
+9/9/2021 10:34:30,Matutino,1ero,A,Primera medición: después del ingreso y antes del recreo,407
+9/9/2021 10:34:53,Matutino,1ero,B,Primera medición: después del ingreso y antes del recreo,401
+9/9/2021 10:35:17,Matutino,2do,A,Primera medición: después del ingreso y antes del recreo,437
+9/9/2021 10:35:42,Matutino,2do,B,Primera medición: después del ingreso y antes del recreo,420
+9/9/2021 10:36:08,Matutino,3ero,A,Primera medición: después del ingreso y antes del recreo,404
+9/9/2021 10:36:36,Matutino,3ero,B,Primera medición: después del ingreso y antes del recreo,410
+9/9/2021 10:37:16,Matutino,4to,A,Primera medición: después del ingreso y antes del recreo,419
+9/9/2021 10:37:38,Matutino,4to,B,Primera medición: después del ingreso y antes del recreo,475
+9/9/2021 10:38:05,Matutino,5to,A,Primera medición: después del ingreso y antes del recreo,464
+9/9/2021 10:38:43,Matutino,5to,B,Primera medición: después del ingreso y antes del recreo,470
+9/9/2021 10:39:12,Matutino,6to,A,Primera medición: después del ingreso y antes del recreo,477
+9/9/2021 10:39:43,Matutino,6to,B,Primera medición: después del ingreso y antes del recreo,489
