@@ -1,9 +1,11 @@
-# ventila_tu_escuela
-[To learn about Ventila tu Escuela visit](https://www.ventilatuescuela.org)
+# Ventila tu Escuela
+[To learn about Ventila tu Escuela visit ventilatuescuela.org](https://www.ventilatuescuela.org)
+
 Visualize and analyse from the Ventila tu Escuela pilot
 
-##Data
-###Pilot 1
+## Data
+
+### Pilot 1
 Ventila tu Escuela's 1st pilot is being conducted in the school Laureano Jimenez y Coria, in Ecatepec, Estado de Mexico.
 This school was equiped with enough material to make one DYI air filter per classroom, and training. The school leadership provided additional resources to buy CO2 sensors. 
 Since the first day of september, they are filling a form to inform about attendance, classroom ventilation and use of air filters, which is registered in the file:
